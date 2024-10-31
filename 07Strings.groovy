@@ -9,6 +9,6 @@ class StringOperations{
 
         println(sample*3) //Repeat the string 3 times
         println(sample.length())
-
+        println(sample.minus("world"))
     }
 }
